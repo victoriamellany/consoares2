@@ -1,0 +1,380 @@
+# Translation of Plugins - Stackable &#8211; Page Builder Gutenberg Blocks - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Stackable &#8211; Page Builder Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-01 05:41:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Stackable &#8211; Page Builder Gutenberg Blocks - Stable (latest release)\n"
+
+#: src/welcome/index.php:394
+msgid "Start creating your site or check out our full guide to Stackable."
+msgstr "Comece criando o seu site ou verifique o nosso guia completo para o Stackable."
+
+#: src/welcome/index.php:302
+msgid "There are 2 ways to start using Stackable:"
+msgstr "Há duas formas de começar a usar o Stackable:"
+
+#: src/welcome/index.php:296
+msgid "There's a lot you can achieve using Stackable. Here's a quick guide to start you off."
+msgstr "Há muito o que você consegue fazer usando o Stackable. Aqui vai um guia rápido para você saber como começar."
+
+#: src/welcome/index.php:295
+msgid "How to start using Stackable"
+msgstr "Como iniciar usando o Stackable"
+
+#: src/welcome/index.php:354 src/welcome/index.php:371
+msgid "Tip"
+msgstr "Dica"
+
+#: src/welcome/index.php:332 dist/admin_welcome.js:2
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:1
+msgid "UI Kits"
+msgstr "Kits UI"
+
+#: src/welcome/index.php:403
+msgid "More Resources"
+msgstr "Mais recursos"
+
+#: src/welcome/index.php:334 dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Block Designs"
+msgstr "Bloco de designs"
+
+#: src/welcome/index.php:329
+msgid "Adding from the Design Library"
+msgstr "Adicionar a partir da biblioteca de design"
+
+#: src/welcome/index.php:320
+msgid "Click the <strong>(+) icon</strong> then scroll to the <strong>Stackable Blocks area</strong> to add a block."
+msgstr "Clique no <strong>ícone (+)</strong> e então role para a <strong>área de blocos do Stackable</strong> para adicionar um bloco."
+
+#: src/welcome/index.php:319
+msgid "Adding by Block Type"
+msgstr "Adicionando pelo tipo de bloco"
+
+#: src/welcome/index.php:308
+msgid "Add a block from the <strong>Design Library</strong>"
+msgstr "Adicione um bloco a partir da <strong>biblioteca de design</strong>"
+
+#: src/welcome/index.php:305
+msgid "Add a block by <strong>Block Type</strong>"
+msgstr "Adicione um bloco por <strong>tipo de bloco</strong>"
+
+#: src/welcome/index.php:393
+msgid "Ready to make your website?"
+msgstr "Tudo pronto para criar o seu site?"
+
+#: src/welcome/index.php:168
+msgid "%sFont Awesome Pro%s Integration is available by inputting your Pro Kit code. %sLearn more%s."
+msgstr "A integração com o %sFont Awesome Pro%s está disponível ao inserir o seu código Pro Kit. %sSaiba mais%s."
+
+#: src/welcome/index.php:166 dist/admin_welcome.js:2
+msgid "If you have %sFont Awesome Pro%s, you can use your Pro icons by inputting your Pro Kit code below."
+msgstr "Se você tem o %sFont Awesome Pro%s, você pode usar os seus ícones Pro ao inserir o seu código Pro Kit abaixo."
+
+#: src/plugins/premium-notice/index.php:38
+msgid "True if the inspector \"Go Premium\" notice was already dismissed"
+msgstr "Verdadeiro se o aviso do inspetor \"Virar Premium\" já foi dispensado."
+
+#: src/global-settings.php:321
+msgid "Vivid purple"
+msgstr "Roxo vívido"
+
+#: src/global-settings.php:316
+msgid "Vivid cyan blue"
+msgstr "Azul ciano vívido"
+
+#: src/global-settings.php:311
+msgid "Pale cyan blue"
+msgstr "Azul ciano pálido"
+
+#: src/global-settings.php:306
+msgid "Vivid green cyan"
+msgstr "Verde ciano vívido"
+
+#: src/global-settings.php:301
+msgid "Light green cyan"
+msgstr "Verde ciano claro"
+
+#: src/global-settings.php:296
+msgid "Luminous vivid amber"
+msgstr "Âmbar luminoso vívido"
+
+#: src/global-settings.php:291
+msgid "Luminous vivid orange"
+msgstr "Laranja vívido luminoso"
+
+#: src/global-settings.php:286
+msgid "Vivid red"
+msgstr "Vermelho vívido"
+
+#: src/global-settings.php:281
+msgid "Pale pink"
+msgstr "Rosa pálido"
+
+#: src/global-settings.php:276
+msgid "White"
+msgstr "Branco"
+
+#: src/global-settings.php:271
+msgid "Cyan bluish gray"
+msgstr "Cinza ciano azulado"
+
+#: src/global-settings.php:266
+msgid "Black"
+msgstr "Preto"
+
+#: src/global-settings.php:213
+msgid "Stackable global typography settings"
+msgstr "Configurações de tipografia global do Stackable"
+
+#: src/global-settings.php:147
+msgid "Stackable global typography add important to global styles"
+msgstr "A tipografia global do Stackable adiciona importante para os estilos globais"
+
+#: src/global-settings.php:135
+msgid "Stackable global typography apply to setting"
+msgstr "Tipografia global do Stackable se aplica à configuração"
+
+#: src/global-settings.php:123
+msgid "Stackable global colors display only global colors"
+msgstr "Cores globais do Stackable exibe apenas cores globais"
+
+#: src/welcome/index.php:157 dist/editor_blocks.js:1
+msgid "Stackable Settings"
+msgstr "Configurações do Stackable"
+
+#: src/welcome/freemius.php:17
+msgid "Stackable Account"
+msgstr "Conta do Stackable"
+
+#: src/welcome/freemius.php:34
+msgid "Become an Affiliate"
+msgstr "Seja um Afiliado"
+
+#: src/welcome/index.php:239
+msgid "Font Awesome Pro Integration"
+msgstr "Integração com o Font Awesome Pro"
+
+#: src/welcome/index.php:172 src/welcome/index.php:190
+#: src/welcome/index.php:201
+msgid "This is only available in Stackable Premium."
+msgstr "Isso está disponível apenas no Stackable Premium"
+
+#: src/welcome/index.php:181
+msgid "📰 Role Manager"
+msgstr "📰 Gerenciamento de funções"
+
+#: src/welcome/index.php:164
+msgid "🧰 Icon Library Settings"
+msgstr "🧰 Configurações da biblioteca de ícones"
+
+#: src/welcome/index.php:441
+msgid "Contact Support"
+msgstr "Entre em contato"
+
+#: src/welcome/index.php:428
+msgid "Blog"
+msgstr "Blog"
+
+#: src/welcome/index.php:445
+msgid "Upgrade to Premium and our support team can help you out."
+msgstr "Faça o upgrade para o Premium e o nosso grupo de suporte poderá lhe ajudar"
+
+#: src/welcome/index.php:410
+msgid "Community"
+msgstr "Comunidade"
+
+#: src/pro.php:49
+msgid "Hide \"Go Premium\" notices"
+msgstr "Esconder notificações sobre \"Obter Premium\""
+
+#: src/help/help-tooltip.php:27
+msgid "Disable Stackable help video tooltips"
+msgstr "Desativar os vídeos de dicas do Stackable"
+
+#: src/welcome/index.php:107
+msgid "Account"
+msgstr "Conta"
+
+#: src/welcome/index.php:438 src/welcome/index.php:444
+msgid "Get Support"
+msgstr "Obter suporte"
+
+#: src/welcome/index.php:118 src/welcome/index.php:419
+msgid "Documentation"
+msgstr "Documentação"
+
+#: src/block/posts/index.php:323 dist/editor_blocks.js:1
+msgid "Continue Reading"
+msgstr "Continue lendo"
+
+#: src/welcome/index.php:260
+msgid "🗞 Stackable Blog"
+msgstr "🗞 Blog do Stackable"
+
+#: src/welcome/index.php:247
+msgid "Get Stackable Premium"
+msgstr "Obtenha Stackable Premium"
+
+#: src/welcome/index.php:243
+msgid "No Ads"
+msgstr "Sem anúncios"
+
+#: src/welcome/index.php:231
+msgid "If you are ready for even more, upgrade to Premium and get:"
+msgstr "Se estiver pronto para mais, atualize para premium e obtenha:"
+
+#: src/welcome/index.php:396
+msgid "Create New Page"
+msgstr "Criar nova página"
+
+#: src/welcome/index.php:439
+msgid "Stuck with something? Email us and we'll help you out"
+msgstr "Algum problema? Envie-nos um e-mail e te ajudaremos."
+
+#: src/welcome/index.php:101 src/welcome/index.php:472 dist/admin_welcome.js:2
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:1
+msgid "Settings"
+msgstr "Configurações"
+
+#: src/welcome/index.php:230
+msgid "🚀 Stackable Premium"
+msgstr "🚀 Stackable Premium"
+
+#: src/pro.php:132
+msgid "We hope you're enjoying Stackable. If you want more, you may want to check out %sStackable Premium%s. Ready to upgrade and do more? %sGo premium now%s"
+msgstr "Esperamos que esteja gostando do Stackable. Se quiser mais, consulte o %sStackable Premium%s. Pronto para atualizar e fazer mais? %sObtenha o premium agora%s"
+
+#: src/welcome/index.php:263
+msgid "Subscribe"
+msgstr "Assinar"
+
+#: src/welcome/index.php:262
+msgid "Keep up to date by subscribing to our newsletter."
+msgstr "Mantenha-se atualizado ao assinar nossa newsletter."
+
+#: src/welcome/index.php:216
+msgid "We have a lot of awesome blocks. But if you're overwhelmed with awesomeness, you can hide some of them."
+msgstr "Temos vários blocos legais. Mas se sentir intimidado com toda esta grandiosidade, pode esconder alguns deles."
+
+#: src/welcome/index.php:127 src/welcome/index.php:172
+#: src/welcome/index.php:190 src/welcome/index.php:201
+#: src/welcome/index.php:484 dist/admin_welcome.js:2
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:1
+msgid "Go Premium"
+msgstr "Obter Premium"
+
+#: src/welcome/index.php:216
+msgid "(If your post contains a disabled block, it will still continue to work. You won't just be able to add the disabled blocks.)"
+msgstr "(Se seu post contiver um bloco inativo, continuará funcionando. Apenas não poderá adicionar os blocos inativos.)"
+
+#: src/deprecated/v2/disabled-blocks.php:62 src/welcome/news.php:103
+msgid "Security error, please refresh the page and try again."
+msgstr "Erro de segurança. Atualizar esta página para experimentar outra vez."
+
+#: src/deprecated/v2/admin.php:39 src/welcome/index.php:215
+msgid "🎛 Enable & Disable Blocks"
+msgstr "🎛 Ativar & desativar blocos"
+
+#: plugin.php:74
+msgid "\"Stackable\" requires PHP version 5.3.0 or higher, but PHP version %s is used on the site."
+msgstr "\"Stackable\" requer versão PHP 5.3.0 ou superior, mas a versão PHP %s é a que está sendo usada neste site."
+
+#: plugin.php:49
+msgid "%s\"Stackable\" can not be activated. %s It requires PHP version 5.3.0 or higher, but PHP version %s is used on the site. Please upgrade your PHP version first ✌️ %s Back %s"
+msgstr "%s\"Stackable\" não pode ser ativado. %s Requer PHP versão 5.3.0 ou superior, mas a versão PHP %s é a que está sendo usada neste site. Atualize a sua versão PHP primeiro ✌️ %s Voltar %s"
+
+#: src/welcome/index.php:250 dist/admin_welcome.js:2
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:1
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#: src/block/posts/index.php:277
+#: src/deprecated/v2/block/blog-posts/index.php:466
+msgid "Number of comments"
+msgstr "Número de comentários"
+
+#: src/block/posts/index.php:103 src/block/posts/index.php:547
+#: src/deprecated/v2/block/blog-posts/index.php:285
+#: src/deprecated/v2/block/blog-posts/index.php:540
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d comentário"
+msgstr[1] "%d comentários"
+
+#: src/block/posts/index.php:503
+#: src/deprecated/v2/block/blog-posts/index.php:261
+#: src/deprecated/v2/block/blog-posts/index.php:551
+msgid ", "
+msgstr ", "
+
+#: src/block/posts/index.php:70
+#: src/deprecated/v2/block/blog-posts/index.php:247
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:1
+msgid "(Untitled)"
+msgstr "(Sem título)"
+
+#: src/deprecated/v2/block/blog-posts/index.php:312
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2
+msgid "Continue reading"
+msgstr "Continue lendo"
+
+#: src/welcome/notification.php:77
+msgid "%s notification"
+msgid_plural "%s notifications"
+msgstr[0] "%s notificação"
+msgstr[1] "%s notificações"
+
+#: src/welcome/notification.php:138
+msgid "Don't show me this anymore"
+msgstr "Não mostrar mais isto"
+
+#: src/block/posts/index.php:264
+#: src/deprecated/v2/block/blog-posts/index.php:454
+msgid "Author information"
+msgstr "Informação de autor"
+
+#: src/block/posts/index.php:228
+#: src/deprecated/v2/block/blog-posts/index.php:418
+msgid "Different sized featured images"
+msgstr "Tamanhos diferentes de imagens destacadas"
+
+#: src/block/posts/index.php:240
+#: src/deprecated/v2/block/blog-posts/index.php:430
+msgid "Post excerpt for Stackable"
+msgstr "Resumo de post para Stackable"
+
+#: src/block/posts/index.php:252
+#: src/deprecated/v2/block/blog-posts/index.php:442
+msgid "Category list links"
+msgstr "Links da lista de categorias"
+
+#: src/welcome/notification-rate.php:41
+msgid "We've noticed that you've been using Stackable for some time now, we hope you are loving it! We would appreciate it if you can %sgive us a 5 star rating on WordPress.org%s!"
+msgstr "Você esteve usando o Stackable por algum tempo, esperamos que esteja gostando! Gostaríamos que %sdesse pontuação de 5 estrelas em WordPress.org%s!"
+
+#. Plugin Name of the plugin
+msgid "Stackable - Gutenberg Blocks"
+msgstr "Stackable - Blocos Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://wpstackable.com"
+msgstr "https://wpstackable.com"
+
+#: src/welcome/index.php:29 src/welcome/index.php:30 src/welcome/index.php:147
+#: dist/deprecated/editor_blocks_deprecated_v2.js:2 dist/editor_blocks.js:1
+msgid "Stackable"
+msgstr "Stackable"
+
+#. Author URI of the plugin
+msgid "http://gambit.ph"
+msgstr "http://gambit.ph"
+
+#. Author of the plugin
+msgid "Gambit Technologies, Inc"
+msgstr "Gambit Technologies, Inc"
